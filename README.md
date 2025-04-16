@@ -1,29 +1,52 @@
-# 👋 Olá, eu sou o Jean Dias!
+<h1 align="center">Olá! Eu sou o Jean Dias 👋</h1>
 
-💻 Atualmente sou desenvolvedor, apaixonado por tecnologia e sempre em busca de aprender mais.
+<p align="center">
+Atualmente sou desenvolvedor e estou sempre em busca de evoluir como profissional e como pessoa.
+</p>
 
-## 🚀 Tecnologias que estudo
-- React
-- Next.js
-- Nest.js
-- TypeScript
-- JavaScript
-
-## 🧠 Habilidades técnicas
-- Linguagens: HTML, CSS, JavaScript, TypeScript, Python, C, Java
-- Frameworks: React, Next.js, Nest.js
-- Backend: Node.js, Nest.js
-
-## 💼 Projetos
-Atualmente trabalho em projetos utilizando:
-- React para interfaces dinâmicas e modernas
-- Node.js e Nest.js para o desenvolvimento backend
-- Next.js para aplicações completas com SSR/SSG
-
-## 🌐 Conecte-se comigo:
-- GitHub: [JEAND1AS](https://github.com/JEAND1AS)
-- LinkedIn: [Jean Dias](https://www.linkedin.com/in/jean-dias-231366197/)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
 ---
 
-_"Sempre em busca de evolução e novos desafios."_ 🚀
+### 💻 Sobre mim
+
+- 🔭 Trabalho em projetos com **React, Node.js, Next.js, Nest.js**
+- 📚 Estudo **React, Next.js, Nest.js, TypeScript e JavaScript**
+- 💡 Tenho habilidades com:
+  - HTML, CSS, JavaScript, TypeScript
+  - Python, C, Java
+  - React, Next.js, Nest.js
+
+---
+
+### 📊 Estatísticas
+
+<a href="https://github.com/JEAND1AS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEAND1AS&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JEAND1AS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
+
+---
+
+### 🌐 Conecte-se comigo
+
+<div>
+  <a href="https://www.linkedin.com/in/jean-dias-231366197/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/JEAND1AS" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 🐍 Snake Animation
+
+![Snake animation](https://github.com/JEAND1AS/JEAND1AS/blob/output/github-contribution-grid-snake.svg)
