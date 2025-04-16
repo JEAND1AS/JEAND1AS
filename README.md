@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Jean Dias!
 
-<!--
-**JEAND1AS/JEAND1AS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Atualmente sou desenvolvedor, apaixonado por tecnologia e sempre em busca de aprender mais.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que estudo
+- React
+- Next.js
+- Nest.js
+- TypeScript
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Habilidades técnicas
+- Linguagens: HTML, CSS, JavaScript, TypeScript, Python, C, Java
+- Frameworks: React, Next.js, Nest.js
+- Backend: Node.js, Nest.js
+
+## 💼 Projetos
+Atualmente trabalho em projetos utilizando:
+- React para interfaces dinâmicas e modernas
+- Node.js e Nest.js para o desenvolvimento backend
+- Next.js para aplicações completas com SSR/SSG
+
+## 🌐 Conecte-se comigo:
+- GitHub: [JEAND1AS](https://github.com/JEAND1AS)
+- LinkedIn: [Jean Dias](https://www.linkedin.com/in/jean-dias-231366197/)
+
+---
+
+_"Sempre em busca de evolução e novos desafios."_ 🚀
