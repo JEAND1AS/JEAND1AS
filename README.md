@@ -53,8 +53,4 @@ Atualmente sou desenvolvedor e estou sempre em busca de evoluir como profissiona
 </div>
 
 
----
-
-### 🐍 Snake Animation
-
 ![Snake animation](https://github.com/JEAND1AS/JEAND1AS/blob/output/github-contribution-grid-snake.svg)
